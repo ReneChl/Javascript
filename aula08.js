@@ -55,5 +55,10 @@ console;log(numero >=19)
 
 let numero = 50;
 let segundoNumero = 258;
+// Estamos utilizando (maior que >) e (menor que) para comparar determinadas informaçoes
+console;log(numero >=19) //verdadero, (>) MAIOR QUE (<) MENOR QUE
 
-console;log(numero >=19) //verdadero 
+//RESUMO
+// = (SIGNIFICA "RECEBE" VAI RECEBER INFORMAÇÃO, vai identificar apenas valores )
+// == (somente tipo)
+// === (Vslor e tipo (recomendado))
