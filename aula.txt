@@ -1,1 +1,17 @@
-1 = " 
+- Data de entrega fo TCC DIA 24/06.
+-Avalação terá individuas  e nota Geral.
+
+-3 Páginas no mínimo
+-Colocar repositorio Público e com link generado
+-Apresentação para turmas do seu projeto será através do QR CODE.
+-Sites responsivos e com boa acessibilidade para leituras dos textos e imagens
+
+
+Passos de criação ate entrega:
+-Criar FIGMA com o prototipo de como vai ficar.
+-Escolher uma paleta de cor.
+-Criação  de uma logo pelo adobe Ilustrador com os intergrantes.
+-Iniciar a criação das páginas.
+-Necessário ter Javascript rodando.
+-Códigos bem organizados e comentados.
+-OBRIGATORIO acessibilidade LIBRAS
