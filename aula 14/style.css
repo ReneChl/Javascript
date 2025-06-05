@@ -28,7 +28,7 @@ button {
 }
 
 #addTask:focus {
-    outline: none;
+    outline: none;/*sirve pata eleminar sonbra que esta site, quedando limpio*/
 }
 
 #addTask:hover{
