@@ -1,6 +1,6 @@
-// Criamos um objeto chamado "options" com as configurações para o efeito de digotação
+// Criamos um objeto chamado "options" com as configurações para o efeito de digitação
 const options = {
-
+    // Lista de frases que ser]ao exibidas uma aoós a outra
     strings: [
         "Bem-vindo ao Obra Social Dom Bosco",
         "Desemvolvimento Front-end",
