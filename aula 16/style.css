@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding: 2rem 5rem;
+    padding: 2rem 5rem;/*primer valor vertical e segundo valor horizontal*/
     color: #fff;
     position: sticky;
     top: 0;
@@ -49,6 +49,11 @@ header a {
     color: #fff;
     text-align: center;
     z-index: 10;
+    
+    background-color: #011a0f6c;
+    padding: 0.5rem;
+    border-radius: 20px; /*aumentei eu*/
+    
 }
 
 .carousel-text h1 {
@@ -61,14 +66,14 @@ header a {
 }
 
 .caixa-01 {
-    background-image: url(imagem/foto\ 1.jpg);
+    background-image: url(imagem/foto01ac.jpg);
 }
 
 .caixa-02 {
-    background-image: url(imagem/foto2.jpg);
+    background-image: url(foto02ac.jpg);
 }
 
 .caixa-03 {
-    background-image: url(imagem/foto3.jpg);
+    background-image: url(foto03ac.jpg);
 }
 
