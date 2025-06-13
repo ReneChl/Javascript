@@ -75,5 +75,7 @@ header a {
 
 .caixa-03 {
     background-image: url(foto03ac.jpg);
+    background-size: cover; /**/
+    background-position: center;
 }
 
