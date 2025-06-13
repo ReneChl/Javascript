@@ -36,7 +36,7 @@ header a {
 }
 
 /*estelizando das caixas (div) que guerdam as imagens*/
-.swiper-slide {
+.swiper-slide { /*aqui estamos chamando uma das clases*/
     background-size: cover;
     background-position: center;
 }
@@ -45,7 +45,7 @@ header a {
     position: absolute;/*posiciona o elemento de forma abdoluta dentro do container pai com position: reçative*/
     top:50%;/**/
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);/*centraliza o elemento axatamente no meio do container (corrige o deslocamento)*/
     color: #fff;
     text-align: center;
     z-index: 10;
